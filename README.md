@@ -12,7 +12,7 @@ poetry config virtualenvs.in-project true
 ```
 
 ## Managing Dependencies
-### Install Dependencies
+### Install Dependencies and create virtual environment
 ```bash
 poetry install
 ```
